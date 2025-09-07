@@ -4,10 +4,11 @@ pip==25.0.1
 pydicom==3.0.1
 streamlit==1.37.1
 numpy==1.26.4
-requests==2.32.3
-opencv-python==4.11.0
+requests
+opencv-python
 opencv-python-headless
 pyqt5==5.15.10
+
 
 
 
