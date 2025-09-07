@@ -7,9 +7,9 @@ streamlit==1.37.1
 rich==13.7.1
 numpy
 requests==2.32.3
-python==3.12.7
 opencv-python
 opencv-python-headless
+
 
 
 
