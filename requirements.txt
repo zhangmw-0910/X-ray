@@ -1,6 +1,6 @@
 PyQt5
 langchain-openai==0.3.32
-torch==2.6.0
+torch
 pip==25.0.1
 pydicom==3.0.1
 streamlit==1.37.1
@@ -9,6 +9,7 @@ numpy
 requests==2.32.3
 opencv-python
 opencv-python-headless
+
 
 
 
