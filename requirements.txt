@@ -1,3 +1,4 @@
+opencv-python-headless
 langchain-openai==0.3.32
 torch==2.6.0
 pip==25.0.1
@@ -6,8 +7,8 @@ streamlit==1.37.1
 numpy==1.26.4
 requests
 opencv-python
-opencv-python-headless
 pyqt5==5.15.10
+
 
 
 
