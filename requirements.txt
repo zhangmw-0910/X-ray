@@ -2,13 +2,13 @@ PyQt5==5.15.10
 langchain-openai==0.3.32
 torch==2.6.0
 pip==25.0.1
-opencv-python==4.11.0
 pydicom==3.0.1
 streamlit==1.37.1
 rich==13.7.1
 numpy==1.26.4
 requests==2.32.3
 python==3.12.7
+
 
 
 
