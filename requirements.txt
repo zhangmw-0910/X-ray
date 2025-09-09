@@ -5,11 +5,12 @@ pydicom==3.0.1
 streamlit==1.37.1
 numpy==1.26.4
 requests
-opencv-python==4.11.0
+opencv-python
 opencv-python-headless
 python==3.12.7
 pyqt5==5.15.10
 ultralytics==8.3.75
+
 
 
 
